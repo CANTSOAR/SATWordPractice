@@ -1,0 +1,115 @@
+import random as r
+
+words = "abate* aberration* abhor, abhorrence* abstruse* accost* acrimony* acumen* adamant* adept* adroit* affected* alacrity* allocate* altruistic, altruism* amenable* amiable* amicable* antediluvian* anthropology* antipathy* apathetic, apathy* apt* arcane* ascendancy* ascetic, asceticism* aspire* assail* assiduous* assuage* atrophy* attenuate* august* aura* auspicious* autocrat, autocratic* automaton* avarice* banal* barrage* belie* belligerent* benevolent* bequeath* berate* bipartisanship* blighted* bog* bolster* bombastic* boorish, boorishness* buoyant* burgeon* buttress* byzantine* cacophonous, cacophony* cajole* callous* cantankerous(ness)* capricious* castigate* caustic* censorious* censure* cerebral* chagrin* charlatan* chastise* chide* churlish* circuitous* circumscribe* circumvent* clandestine* coalesce* compendious* complacency, complacent* compliant, compliance* conciliate, conciliatory* concur* conflagration* confluence* congenial* conscientious* consternation* contempt(uous)* contemptible* contentious* convivial* copious* corroborate* cosmopolitan* credulity, credulous* culpable* cursory* dauntless* dearth* debacle* debilitate(d)* debunk* decimate* decorum, decorous* deference, deferential* degradation* deleterious* delineate* demonstrative* demure, demurral* demystify* denigrate* depose* depravity* deprecate* depreciation, depreciatory* deride* derivative* derogatory, derogate* desecration* despondent* despot* destitute* deterrent* devoid* didactic* diffident, diffidence* diffuse* digress(ion)* dilatory* diminutive, diminution* dire* discern, discerning* discomfited* discount (verb)* disheartening* disillusionment* disingenuous* disparage* dispassionate* dispel* disputatious* disquiet(ing)* disseminate* distaste* divergent* divisive* divulge* doctrine* dogmatic* dormant* dupe* duplicitous, duplicity* ebullient* eclectic* efface(ment)* effervesce* egalitarian* elated, elation* elicit* elucidate* elude* elusive* embitter(ed)* embroil(ed)* empathetic, empathy* empiric(al)* encompass* encroaching* encumbrance* enigma(tic)* enumerate* ephemeral* epiphany* epitome, epitomize* equanimity* equitable* equivocal* erudite, erudition* esoteric* estrange, estrangement* eulogy, eulogize* evoke* exacting* excavate* exemplar* exhibitionist, exhibitionistic* exhort* exorbitant* expedient* exposé* extol* extricate* facile* faction* fallacious* fallacy* fanaticism* fastidious* fathom (verb)* felicitous* finesse* flagrant* flippant, flippancy* florid(ity)* flummox* folly* foolhardy* forlorn* fortitude* fortuitous* fraudulent* frugal(ity)* furor* furtive* futile, futility* gait* gallant(ry)* gargantuan* garish* genial* germinate* glutton(ous)* grandiose* hackneyed* hamper (verb)* hardy* hasten* heresy, heretic* histrionic* hubris* idiosyncracy, idiosyncratic* idyllic* ignominy, ignominious* illicit* impasse* imperious* impetuous* impudence, impudent* inane* incongruity, incongruous* incredulous, incredulity* incriminate* incubate* indeterminate* indict(ment)* indigenous* indignant* indiscriminate* indolent* indomitable* induce* indulgent* ineffable* ineptitude* inert, inertia* ingenuous* inherent* inhibit(ing)* innate* innocuous* innuendo* inscrutable* insipid* insolence, insolent* instigate* insular(ity)* intrepid* inundate* invoke* irate* irony, ironic* irreverent, irreverence* jaded* jocular* jovial* judicious* lackadaisical* laconic* laggard* languid* latent, latency* laud, laudatory* listless* lithe* lucid* lucrative* lull* lurid* luxuriant* magnanimity, magnanimous* malleable* marred* maudlin* melancholy* mercenary* mercurial* miserly* mitigate, mitigator* modicum* morose* motley* multifarious* nebulous* nefarious* neophyte* notoriety, notorious* noxious* nuance* obdurate* obstinate (obstinacy)* officious* onerous* opportunist, opportunistic* oracle* orthodox* ostensible* oversight* pacifist* pacify* painstaking* palliate, palliative* paradigm* parch* parody* partisan* patronize* paucity* pedant, pedantic, pedantry* peevish* penchant* penurious* peremptory* perfunctory* peripheral* perquisite* petulant* philanthropist, philanthropic* piety, pious* placate* placid* plasticity* plausible, plausibility* plethora, plethoric* pliable, pliant* polemical* prattle* precarious* precipitate* preclude* precocious* presumptuous* pretext* prevaricator* procure* prodigious* profound, profundity* profuse, profusion* prohibitive, prohibition* proliferate, proliferation* prolific* pronouncement* propensity* proponent* prosaic* prospective* provident* provincial* punctilious* pundit* quell* quixotic* rampant* ramshackle* rancor(ous)* rapport* ratify* raucous* ravenous* raze* reap* rebuttal* recalcitrant* recant* recessive* recluse, reclusive* rectify, rectitude* redolent* refutation, refute* regressive* relegate* relinquish* renounce* repertory* reprehensible* reprimand* reproach* repudiate* repugnant* rescind* reticent, reticence* reverent* rhetoric(al), rhetorician* rouse, rousing* sage* sanctimonious* sanction (verb)* sanctity* sanguine* satiate* satire, satirical, satirize* saturate* scanty* scathing* scintillating* scope* scrupulous* scrutinize, scrutiny* self-righteous* self-serving* serendipity* servile* shrewd* shroud* simile* slight (verb)* slipshod* solace* solicitous(ness)* somber* sophistry* spartan* sporadic* spurious* spurn* squander* stagnant, stagnation* stark(ness)* static (adjective)* staunch* steadfast* stock (adjective)* strident* stupefy, stupefaction* subservient* substantiate* subversive* succulent* supercilious* superfluous* supplant* surfeit* susceptible* sycophant* tangential* teem, teeming* temperamental* temporize* tenacious, tenacity* tenuous* tirade* toady* torpor* totalitarian* tout* tractable* transient* treatise* trepidation* tribulation* trifling* trite* truculent, truculence* ubiquitous* unabashed* uncanny* uncouth* unfathomable* ungainly* unruly* unwitting* urbane* usurp* vacuous, vacuity* vanquish* vapid* venal(ity)* venerable* verbose* vicarious* vigilant* vindicate, vindication* vindictive* virtuoso, virtuosity* virulent* viscous* vocation* vying* waning* wayward* wrath* wry* zealot*"
+wordstwo = "abbreviate,abstinence,adulation,adversity,aesthetic,amicable,anachronistic,anecdote,anonymous,antagonist,arid,assiduous,asylum,benevolent,camaraderie,censure,circuitous,clairvoyant,collaborate,compassion,compromise,condescending,conditional,conformist,congregation,convergence,deleterious,demagogue,digression,diligent,discredit,disdain,divergent,empathy,emulate,enervating,enhance,ephemeral,evanescent,exasperation,exemplary,extenuating,florid,fortuitous,frugal,hackneyed,haughty,hedonist,hypothesis,impetuous,impute,incompatible,inconsequential,inevitable,integrity,intrepid,intuitive,jubilation,lobbyist,longevity,mundane,nonchalant,novice,opulent,orator,ostentatious,parched,perfidious,precocious,pretentious,procrastinate,prosaic,prosperity,provocative,prudent,querulous,rancorous,reclusive,reconciliation,renovation,resilient,restrained,reverence,sagacity,scrutinize,spontaneity,spurious,submissive,substantiate,subtle,superficial,superfluous,suppress,surreptitious,tactful,tenacious,transient,venerable,vindicate,wary,"
+deflist = "lessen| deviation, not normal| hatred| difficult to understand| confront| bitter animosity| insightfulness| not yielding| skillful| skillful| haughty| eagerness| assign, portion| generous| yielding| friendly| friendly| very old| study of human beings| dislike| lacking interest| appropriate, inclined| mysterious, known only by a few| influence, domination| one who practices self-denial as a spiritual discipline| strive for| belittle| diligent| relieve, appease| waste away| weaken, reduce| dignified| air, feeling| favorable| dictator, dictatorial| a person who acts like a robot| greed| common| bombardment, torrent| give a false impression| aggressive, warlike| generous| hand down (through a will)| scold harshly| supported by two opposing groups (political parties)| destroyed| marsh, swamp| support| pompous| crude| cheerful, floating| grow, flourish| support| convoluted, complex| discordant sound| coax| insensitive| irritable| fickle| belittle| bitter| harshly critical| scold| intellectual| mortification| swindler| belittle| belittle| vulgar, boorish| indirect| restrict| escape, avoid| secretive| blend, fuse| succinct| self-satisfaction, smugness| yielding| compromising, apologizing| agree| large destructive fire| a place where things merge or flow together| pleasant| careful| dismay| disdainful| despicable| belligerent, quarrelsome| sociable, lively| abundant| strengthen or support with additional evidence| sophisticated, urbane| the trait of trusting others too much| blameworthy| hasty, superficial| courageous| scarcity| failure| weaken(ed)| prove wrong| destroy| order, politeness| respectful submission, yielding| humiliation| harmful| list, explain| openly emotional| overly modest| make clear and comprehensible| belittle| dethrone, remove from power| moral corruption| disapprove, belittle| decrease in value| make fun of| not original| disparaging, belittling| violate the sacredness of| sad, depressed| dictator| poor| hindrance, impediment| lacking| (often excessively) morally instructive| shy| spread out| stray from the subject at hand| tending to waste time| extremely small| urgent, dreadful| perceive, perceptive| disappointed, defeated| disregard| discouraging| disenchantment, disappointment| insincere| belittle| unemotional| to drive away or disprove| quarrelsome| (causing) anxiety| scatter widely| dislike, aversion| different, conflicting| creating conflict| make known| religious, political, or philosophical principles or teachings| tending to force one's own opinions on other people| inactive| deceive| deliberately deceptive| enthusiastic| from diverse sources| erase| bubble, fizz| belief in equality| joyful| bring about| clarify| evade| difficulty to catch or define| make worse| involve in an argument or conflict| compassionate| based on observation and experiment (not theory)| include, surround| intrusive| burden| mystery, mysterious| list| short-lived| sudden realization| representative example| calmness| even-handed| ambiguous| scholarly| understood only by a few| alienate, alienation| praising speech| bring about, stir up| demanding, severe requirements| unearth, dig up| representative example| deliberately behaving a certain way to attract attention| encourage| too expensive| useful| a report designed to reveal the truth to the public| praise| disentangle| superficial, effortless| group within a larger group| deceitful, incorrect| false belief| excessive enthusiasm| careful| understand| well-suited, happy| tact, elegant skill| evident, obvious| disrespectful| flushed, flowery| confuse| foolishness| recklessly daring| sad| courage| fortunate, lucky| deceitful| cheap(ness)| commotion, anger| sneaky| hopeless| manner of walking| courageous| gigantic| tastelessly showy| friendly| (cause to) grow| someone who eats and drinks too much| pompous, pretentious| common| hinder, restrict| robust, sturdy| speed up the progress of| belief contrary to the established opinion| excessively dramatic or emotional| arrogance| unique personal trait, quirky| simply tranquil| dishonor, humiliation| illegal| obstacle| arrogant| rash, passionate| disrespectful, insolent| senseless, stupid| inappropriateness, discrepancy| skeptical| accuse someone of a crime| develop, grow| left doubtful, inconclusive| formally accuse of a crime| native to a region| angered (by injustice)| unselective, random| lazy| too strong to be defeated| cause| lenient| impossible to express in words| incompetence| not moving or active| unsophisticated and trusting, naïve| intrinsic, natural| restrain(ing)| intrinsic, natural| harmless| implicit suggestion| mysterious| dull, boring| disrespectful| provoke, start| related to or similar to an island| courageous| flood| call forth, appeal to| angry| incongruity between what is expected and what actually results| disrespectful| tired, bored| cheerful| cheerful| fair| lacking energy, lethargic| concise| lazy person| inactive, dreamy| the state of being not yet evident or active| praise| languid, sluggish| graceful, supple| clear, easily understood| profitable| short period of calm| sensational, shocking| lush, elaborate| generosity, generous| capable of being shaped, pliable| scarred| overly sentimental| bleak| motivated by money| fickle| cheap, stingy| moderate, alleviate| small amount| depressed| diverse, heterogeneous| many types| vague| evil| beginner| infamous, ill fame| poisonous| subtle difference| stubborn| stubborn(ness)| meddlesome, interfering| difficult, trying| a person who takes advantage of opportunities, often unethically| prophet| conservative, traditional| apparent, seeming| mistake| one who completely opposes violence| soothe, calm| careful| relieve pain without curing| clear example| make dry| intentional mockery| someone with biased beliefs| financially support, be condescending towards| scarcity| a person who makes a great show of his knowledge| unpleasant| preference| cheap, stingy| bossy, decisive| done routinely with little interest or care| outermost, secondary| additional payment, bonus| irritable| someone who supports charity| religious devotion| calm someone down| calm| malleability, the ability to be shaped or molded| likely true| surplus| easily shaped or influenced| controversial| babble| dangerous, unstable| outcome| prevent| early development in maturity and intelligence| too bold, arrogant| misleading claim or appearance| liar| get or provide| huge| intense, significant| plentiful| restrictive| grow, increase| fertile, fruitful| formal declaration| inclination, tendency| supporter| lacking imagination, dull| likely or expected to become| prudent, frugal| narrow-minded, unsophisticated| meticulous, attentive to detail| a knowledgeable commentator| suppress, quench| foolish| unrestrained, growing| poorly constructed| bitter resentment| relationship| approve, confirm| harsh, rowdy| insatiable, having a huge appetite| destroy, demolish| harvest, gather| defense, counterargument| stubborn| reject| tending to go backward| hermit| put right, correct| reminiscent, having smell| arguing that a claim is false| tending to return or revert| demote| give back| reject| collection| blameworthy| belittle| scold| reject| offensive, disgusting| annull, retract| emotionally reserved| respectful, pious| (related to) elegant speech/writing, elegant speaker/writer| provoke, excite| wise| pretending to be religious, hypocritical| formally approve| holiness| cheerfully confident, optimistic| satisfy fully| sarcastic imitation| flood, soak| barely sufficient| harshly critical| lively, effervescent| opportunity, range| very careful and precise| examine carefully| smug, holier-than-thou| selfish| luck| submissive, subservient| astute, smart| hide, obscure| comparison| insult, snub| careless, sloppy| comfort, consolation| expressing care or concern, often too much| bleak| deceptive reasoning| simple, self-disciplined| occurring at irregular intervals| false, inauthentic| reject with contempt| waste| not moving| harsh, plain| not moving| strong and loyal| not yielding| standard, hackneyed| loud and harsh| bewilder| yielding| confirm, establish as genuine| one who intends to overthrow the government| delicious| arrogant| more than necessary| to take the place of| surplus| easily influenced or affected| suck up, flatterer| digressive, irrelevant| abundant| moody| delay, evade| stubborn, determined| insignificant, flimsy| critical speech| suck-up| drowsiness, apathy| undemocratic, rigid political control| praise| easily managed or controlled| lasting for only a short time| extensive written argument about some topic| apprehension| suffering| frivolous, unimportant| common| aggressive, bad-tempered| ever-present, pervasive| not embarrassed| extraordinary, weird| crude| incomprehensible, unbelievable| clumsy| boisterous, unrestrained| unintentional| elegant, sophisticated| seize power without authority| empty| conquer, defeat| dull, uninteresting| willing to accept bribes| commanding respect because of age, dignity| wordy, long-winded| felt indirectly by imagining someone else's experiences| watchful, alert| clear of blame or suspicion| seeking revenge| one with exceptional musical skill| poisonous| thick, sticky| career| striving| lessening| selfish, stubborn| anger| clever or grim sense of humor| fanatic|"
+deflisttwo = "shorten^ the trait of refraining from something, especially alcohol^ exaggerated flattery or praise^ a state of misfortune or affliction^ characterized by an appreciation of beauty or good taste^ characterized by friendship and good will^ chronologically misplaced^ short account of an incident^ having no known name or identity or known source^ someone who offers opposition^ lacking sufficient water or rainfall^ marked by care and persistent effort^ a shelter from danger or hardship^ showing or motivated by sympathy and understanding^ the quality of affording easy familiarity and sociability^ harsh criticism or disapproval^ deviating from a straight course^ someone who can perceive things not present to the senses^ work together on a common enterprise or project^ a deep awareness of and sympathy for another's suffering^ an accommodation in which both sides make concessions^ characteristic of those who treat others with arrogance^ imposing or depending on or containing an assumption^ someone who follows established standards of conduct^ the act of assembling^ the act of coming closer^ harmful to living things^ a leader who seeks support by appealing to popular passions^ a message that departs from the main subject^ quietly and steadily persevering in detail or exactness^ the state of being held in low esteem^ lack of respect accompanied by a feeling of intense dislike^ tending to move apart in different directions^ understanding and entering into another's feelings^ strive to equal or match, especially by imitating^ causing weakness or debilitation^ increase^ anything short-lived, as an insect that lives only for a day^ short-lived; tending to vanish or disappear^ actions that cause great irritation^ worthy of imitation^ partially excusing or justifying^ elaborately or excessively ornamented^ lucky; occurring by happy chance^ avoiding waste^ repeated too often; overfamiliar through overuse^ having or showing arrogant superiority^ someone motivated by desires for sensual pleasures^ a tentative insight that is not yet verified or tested^ characterized by undue haste and lack of thought^ attribute or credit to^ not in harmonious or agreeable combination^ lacking worth or importance^ incapable of being avoided or prevented^ an undivided or unbroken completeness with nothing wanting^ invulnerable to fear or intimidation^ spontaneously derived from or prompted by a natural tendency^ a feeling of extreme joy^ someone who is employed to persuade how legislators vote^ the property of having lived for a considerable time^ found in the ordinary course of events^ marked by casual unconcern or indifference^ someone new to a field or activity^ rich and superior in quality^ a person who delivers a speech^ intended to attract notice and impress others^ extremely thirsty^ tending to betray^ characterized by exceptionally early development^ creating an appearance of importance or distinction^ postpone doing what one should be doing^ lacking wit or imagination^ the condition of having good fortune^ serving or tending to excite or stimulate^ marked by sound judgment^ habitually complaining^ showing deep-seated resentment^ withdrawn from society; seeking solitude^ the reestablishment of cordial relations^ the act of improving by renewing and restoring^ recovering readily from adversity, depression, or the like^ under control^ a feeling of profound respect for someone or something^ the ability to understand and discriminate between relations^ examine carefully for accuracy^ the quality of coming from feelings without constraint^ plausible but false^ inclined or willing to give in to orders or wishes of others^ establish or strengthen as with new evidence or facts^ difficult to detect or grasp by the mind or analyze^ of, affecting, or being on or near the surface^ more than is needed, desired, or required^ put down by force or authority^ marked by quiet and caution and secrecy^ having a sense of what is considerate in dealing with others^ stubbornly unyielding^ lasting a very short time^ profoundly honored^ show to be right by providing justification or proof^ marked by keen caution and watchful prudence^"
+
+def makelist(seplist, splitter):
+
+    tempword = ""
+    madelist = []
+
+    for char in seplist:
+        if char == splitter:
+            madelist.append(tempword)
+            tempword = ""
+        elif char == " " and len(tempword) == 0:
+            pass
+        else:
+            tempword += char
+
+    return madelist
+
+
+def learn():
+    run = True
+    while run:
+
+        wordpos = r.randint(0, len(baselist) - 1)
+
+        badresponse = True
+        
+        while badresponse:
+            
+            badresponse = False
+
+            print("\033[96m" + baselist[wordpos] + "\033[0m")
+
+            action = input("do you \"know\" the word, want to \"pass\" or need \"help\"(\"stop\" to stop): ")
+
+            if action == "know":
+                del baselist[wordpos]
+                del defs[wordpos]
+
+            elif action == "pass":
+                print("\033[92m" + baselist[wordpos] + ":", defs[wordpos])
+
+            elif action == "help":
+                baselist.append(baselist[wordpos])
+                defs.append(defs[wordpos])
+                print("\033[91m" + baselist[wordpos] + ":", defs[wordpos])
+
+            elif action == "stop":
+                run = False
+
+            else:
+                badresponse = True
+
+
+def quiz():
+    run = True
+
+    right = 0
+    total = 0
+
+    while run:
+
+        wordpos = r.randint(0, len(baselist) - 1)
+
+        badresponse = True
+        
+        while badresponse:
+            
+            badresponse = False
+
+            print("\033[96m" + baselist[wordpos], "| Score:", str(right) + "/" + str(total) + "\033[0m")
+
+            action = input("do you know the word?(\"y\" or \"n\", and \"stop\" to quit) ")
+
+            responses = ["y", "n", "stop"]
+
+            if action in responses:
+
+                del baselist[wordpos]
+                del defs[wordpos]
+
+                total += 1
+
+                print("\033[91m")
+
+                if action == "y":
+                    
+                    print("\033[92m")
+                    right += 1
+
+                elif action == "stop":
+                    run = False
+
+                print(baselist[wordpos] + ":", defs[wordpos])
+
+            else:
+                badresponse = True
+
+
+baselist = makelist(wordstwo, ",")
+defs = makelist(deflisttwo, "^")
+
+print(len(baselist), len(defs))
+
+task = input("\"quiz\" or \"learn\"? ")
+
+if task == "learn":
+    learn()
+elif task == "quiz":
+    quiz()
